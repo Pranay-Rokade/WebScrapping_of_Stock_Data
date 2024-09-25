@@ -11,6 +11,10 @@ This repository contains Python scripts for web scraping revenue data for Tesla 
 ## Overview
 
 This project aims to extract and visualize revenue data for Tesla and GameStop. The data is fetched using the `yfinance` library and additional web scraping techniques to gather relevant information from financial websites. The final output includes visual representations of revenue trends.
+You can view the revenue data for each company here:
+- [Tesla Revenue Data](https://www.macrotrends.net/stocks/charts/TSLA/tesla/revenue)
+- [GameStop Revenue Data](https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue)
+
 
 ## Technologies Used
 
